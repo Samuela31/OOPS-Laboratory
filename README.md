@@ -23,3 +23,5 @@ Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/
 
 ## Lab 5: String Methods
 Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+
+![op5](https://github.com/Samuela31/OOPS-Laboratory/blob/main/oops%20lab%205%20output.png)
