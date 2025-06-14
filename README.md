@@ -19,7 +19,7 @@ Using class [box](https://github.com/Samuela31/OOPS-Laboratory/blob/main/box.jav
 Using class [Testinterface](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Testinterface.java) in Java, demonstrate interface concept via basic calculator functions.
 
 ## Lab 4: Inheritance
-Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/main/TestInheritance.java) in Java, demonstrate inheritance concept between classes via basic hospital patient details like vaccine status, age, gender, etc.
+Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/main/TestInheritance.java) in Java, demonstrate inheritance concept between classes via basic hospital patient details like vaccine status, age, gender, etc. CLASS file is created for each class in TestInheritance.java
 
 ## Lab 5: String Methods
 Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
