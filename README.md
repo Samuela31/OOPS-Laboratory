@@ -3,6 +3,8 @@ Contains object oriented programming (OOP) lab exercises done in college using J
 - Lab 1: Class
 - Lab 2: Constructor and Constructor Overloading
 - Lab 3: Interface
+- Lab 4: Inheritance
+- Lab 5: String Methods
 
 
 ## Lab 1: Class 
@@ -14,4 +16,10 @@ Using class [fibo](https://github.com/Samuela31/OOPS-Laboratory/blob/main/fibo.j
 Using class [box](https://github.com/Samuela31/OOPS-Laboratory/blob/main/box.java) in Java, demonstrate constructor and constructor overloading concept with total surface area and volume of a box. 
 
 ## Lab 3: Interface
-Using class [Testinterface](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Testinterface.java) in Java, demonstrate interface concept via basic calculator functions. 
+Using class [Testinterface](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Testinterface.java) in Java, demonstrate interface concept via basic calculator functions.
+
+## Lab 4: Inheritance
+Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/main/TestInheritance.java) in Java, demonstrate inheritance concept between classes via basic hospital patient details like vaccine status, age, gender, etc.
+
+## Lab 5: String Methods
+Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
