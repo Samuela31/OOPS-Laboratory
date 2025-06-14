@@ -3,5 +3,9 @@ Contains object oriented programming (OOP) lab exercises done in college using J
 
 
 ## Lab 1: Printing Fibonacci series 
-Using class fibo in Java, print first n terms of Fibonacci series
+Using class [fibo](https://github.com/Samuela31/OOPS-Laboratory/blob/main/fibo.java) in Java, print first n terms of Fibonacci series using loops.
+
 ![op1](https://github.com/Samuela31/OOPS-Laboratory/blob/main/oops%20lab%201%20output.png)
+
+## Lab 2: Constructor and Constructor Overloading
+Using class [box](https://github.com/Samuela31/OOPS-Laboratory/blob/main/box.java) in Java, demonstrate constructor and constructor overloading concept.
