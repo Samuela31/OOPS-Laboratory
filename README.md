@@ -18,6 +18,8 @@ Using class [box](https://github.com/Samuela31/OOPS-Laboratory/blob/main/box.jav
 ## Lab 3: Interface
 Using class [Testinterface](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Testinterface.java) in Java, demonstrate interface concept via basic calculator functions.
 
+![op3](https://github.com/Samuela31/OOPS-Laboratory/blob/main/oops%20lab%203%20output.png)
+
 ## Lab 4: Inheritance
 Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/main/TestInheritance.java) in Java, demonstrate inheritance concept between classes via basic hospital patient details like vaccine status, age, gender, etc. CLASS file is created for each class in TestInheritance.java
 
