@@ -1,5 +1,8 @@
 # OOPS Laboratory
-Contains object oriented programming (OOP) lab exercises done in college using Java.
+Contains object oriented programming (OOP) lab exercises done in college using Java. Table of contents:
+- Lab 1: Class
+- Lab 2: Constructor and Constructor Overloading
+- Lab 3: Interface
 
 
 ## Lab 1: Class 
