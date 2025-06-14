@@ -1,2 +1,2 @@
-# OOPS-Laboratory-
-OOPS using Java lab exercises done during semester 4 in college
+# OOPS Laboratory
+Contains object oriented programming (OOP) lab exercises done in college using Java.
