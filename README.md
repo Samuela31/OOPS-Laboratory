@@ -5,6 +5,11 @@ Contains object oriented programming (OOP) lab exercises done in college using J
 - Lab 3: Interface
 - Lab 4: Inheritance
 - Lab 5: String Methods
+- Lab 6: Exception Handling
+- Lab 7: Packages and Modularity
+- Lab 8:
+- Lab 9: Applet
+- Lab 10: 
 
 
 ## Lab 1: Class 
@@ -29,3 +34,18 @@ Using class [TestInheritance](https://github.com/Samuela31/OOPS-Laboratory/blob/
 Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
 
 ![op5](https://github.com/Samuela31/OOPS-Laboratory/blob/main/oops%20lab%205%20output.png)
+
+## Lab 6: Exception Handling
+Using class [library](https://github.com/Samuela31/OOPS-Laboratory/blob/main/library.java), implement library system for checking book availability for online lending with exception and error handling in Java.
+
+## Lab 7: Packages and Modularity
+Using main class [hotel](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Lab%207/hotel.java) in Java, implement hotel room booking system for customers via various room types differentiated into different classes like single room, double sharing, etc and demonstrate packages concept and modularity of code.
+
+## Lab 5: String Methods
+Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+
+## Lab 9: Applet
+Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+
+## Lab 5: String Methods
+Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
