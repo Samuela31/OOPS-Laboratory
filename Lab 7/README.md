@@ -1,1 +1,19 @@
+Commands to compile and create CLASS files for java files-
 
+javac -source 1.8 -target 1.8 -d . Guest.java
+
+javac -source 1.8 -target 1.8 -d . Member.java
+
+javac -source 1.8 -target 1.8 -d . Suite.java
+
+javac -source 1.8 -target 1.8 -d . FamilyRoom.java
+
+javac -source 1.8 -target 1.8 -d . SingleRoom.java
+
+javac -source 1.8 -target 1.8 -d . DoubleRoom.java
+
+javac -source 1.8 -target 1.8 -d . Booking.java
+
+javac -source 1.8 -target 1.8 -d . Cancellation.java
+
+javac -source 1.8 -target 1.8 hotel.java
