@@ -7,9 +7,9 @@ Contains object oriented programming (OOP) lab exercises done in college using J
 - Lab 5: String Methods
 - Lab 6: Exception Handling
 - Lab 7: Packages and Modularity
-- Lab 8:
+- Lab 8: Threads
 - Lab 9: Applet
-- Lab 10: 
+- Lab 10: JDBC
 
 
 ## Lab 1: Class 
@@ -41,11 +41,11 @@ Using class [library](https://github.com/Samuela31/OOPS-Laboratory/blob/main/lib
 ## Lab 7: Packages and Modularity
 Using main class [hotel](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Lab%207/hotel.java) in Java, implement hotel room booking system for customers via various room types differentiated into different classes like single room, double sharing, etc and demonstrate packages concept and modularity of code.
 
-## Lab 5: String Methods
-Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+## Lab 8: Threads
+Using programs [Bank](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Bank.java) and [Matrix](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Matrix.java) in Java, demonstrate thread concept via simple implementation of bank system and matrix printing.
 
 ## Lab 9: Applet
-Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+Using class [Message](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Lab%209/Message.java) in Java, demonstrate Applet for displaying simple message. Another Applet implementation is [TrafficLightApplet](https://github.com/Samuela31/OOPS-Laboratory/blob/main/Lab%209/TrafficLightApplet.java) for displaying traffic light with text signal display.
 
-## Lab 5: String Methods
-Using class [stringmethods](https://github.com/Samuela31/OOPS-Laboratory/blob/main/stringmethods.java) in Java, demonstrate string concepts like string reversal, character deletion, insertion, substitution, and index finding using String Buffer.
+## Lab 10: JDBC
+Using class [jdbc10](https://github.com/Samuela31/OOPS-Laboratory/blob/main/jdbc10.java) in Java, demonstrate JDBC (Java Database Connectivity) concept with Oracle SQL database and perform insertion, deletion, and display actions of student details stored in table.
